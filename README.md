@@ -1,8 +1,34 @@
-# React + Vite
+##  Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is one of my first React projects, created while following tutorials from Full Stack Club on YouTube. It helped me practice component structure, state management, and integrating TailwindCSS and Lucide-React.
 
-Currently, two official plugins are available:
+A modern task manager built with React, TailwindCSS, and Lucide-React, allowing you to add, complete, and delete tasks interactively.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+
+- React
+- TailwindCSS
+- Lucide-React
+- JavaScript / JSX
+
+## Installation
+
+1. Clone the repository:
+```bash
+    git clone https://github.com/your-username/task-manager-react-tailwind.git
+```
+
+2. Install dependencies:
+```bash
+    npm install
+```
+
+3. Start the development server:
+```bash
+    npm run dev
+```
+
+4. Open your browser at:
+```bash
+    http://localhost:5173
+```
